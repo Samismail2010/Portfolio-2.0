@@ -11,3 +11,8 @@
 .navbar-dark .navbar-nav .nav-link:hover{
     color: rgb(203, 248, 4);
 }
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
