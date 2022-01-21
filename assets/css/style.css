@@ -16,3 +16,15 @@
     align-items: center;
     justify-content: center;
 }
+.fab.fa-linkedin.btn:hover{
+    color: rgb(33, 101, 248);
+}
+.fab.fa-github.btn:hover{
+    color: rgb(137, 52, 221);
+}
+.far.fa-envelope.btn.btn:hover {
+    color: rgb(57, 137, 241);
+
+
+    
+}
