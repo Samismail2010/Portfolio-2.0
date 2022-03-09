@@ -1,6 +1,5 @@
 # Sam Ismail Fullstack Portfolio
 
-  (https://opensource.org/licenses/MIT)
 
   ## Description
 Brief portfolio layout. this portfolio contains a quick about me section, solo projects, as well as collaborative work. The layout displays resposive containers, grids, and advanced CSS usage such as hover affects and responsive web links.
@@ -26,7 +25,7 @@ Brief portfolio layout. this portfolio contains a quick about me section, solo p
 N/A
 
 ## License
-(https://opensource.org/licenses/MIT) This project is covered by the MIT license.
+* None
 
 ## Contributions
 No contribution
